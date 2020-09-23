@@ -1,3 +1,3 @@
-import './styles/style.css'
+import './js'
 
-console.log(1);
+console.log(process.env.NODE_ENV);
